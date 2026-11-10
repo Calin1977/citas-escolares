@@ -1,6 +1,6 @@
 # AGENTS.md
 
-## Project state!!!
+## Project state
 
 Greenfield repository. There is **no application code, manifest, build, test, or lint setup yet** — do not invent commands or assume a stack. The first `/spec` decides those; record them here once they exist.
 
