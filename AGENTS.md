@@ -32,3 +32,8 @@ Specs follow the structure in `.agents/skills/spec/template.md` (header blockquo
 ## Naming
 
 `citas-escolares` = school appointments. Keep domain terms in Spanish if the user uses them, and mirror the language of existing specs.
+
+## MCPs
+
+- Playwright Screenshots y cualquier objeto relacionado con Playwright tiene que estar en la carpeta .playwright-mcp.
+- Context7 Usaremos este MCP para traer información o documentación actualizada del framework.
